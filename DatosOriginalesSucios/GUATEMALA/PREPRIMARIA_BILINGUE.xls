@@ -1,0 +1,140 @@
+<div id="_ctl0_ContentPlaceHolder1_reporte">
+					<TABLE id="TableResumen" cellSpacing="0" cellPadding="0" width="776" align="center" border="0">
+						<TR>
+							<TD>
+								<center>
+                                    &nbsp;</center>
+                                <center>
+									<table cellspacing="0" rules="all" bordercolor="SteelBlue" border="1" id="_ctl0_ContentPlaceHolder1_dgResultado" style="border-color:SteelBlue;font-family:Arial;font-size:Smaller;height:104px;width:100%;border-collapse:collapse;">
+	<tr align="center" valign="middle" style="background-color:LightSteelBlue;">
+		<td>CODIGO</td><td>DISTRITO</td><td>DEPARTAMENTO</td><td>MUNICIPIO</td><td>ESTABLECIMIENTO</td><td>DIRECCION</td><td>TELEFONO</td><td>SUPERVISOR</td><td>DIRECTOR</td><td>NIVEL</td><td>SECTOR</td><td>AREA</td><td>STATUS</td><td>MODALIDAD</td><td>JORNADA</td><td>PLAN</td><td>DEPARTAMENTAL</td>
+	</tr><tr>
+		<td>01-05-0085-41</td><td>01-108</td><td>GUATEMALA</td><td>PALENCIA</td><td>COLEGIO  MIXTO  BILINGÜE  "LA  MONTAÑITA"</td><td>CASERIO  JOYA  HONDA  ALDEA   MARILLANOS</td><td>45686707</td><td>PEDRO ADOLFO LUCERO ROSALES</td><td>ALMA   DENISSE   MONTOYA  OROZCO</td><td>PREPRIMARIA BILINGUE</td><td>PRIVADO</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA NORTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-07-1406-41</td><td>01-114</td><td>GUATEMALA</td><td>SAN PEDRO AYAMPUC</td><td>COPB ANEXO A EORM NO. 887</td><td>ALDEA SAN JOSE NACAHUIL</td><td>54003329</td><td>AGUSTIN HERNANDEZ ASCUC</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA NORTE</td>
+	</tr><tr>
+		<td>01-07-9511-41</td><td>01-114</td><td>GUATEMALA</td><td>SAN PEDRO AYAMPUC</td><td>COPB ANEXO A EORM NO.891</td><td>LOTE 7 MANZANA M SECTOR 2 COLONIA LA LEYENDA</td><td>&nbsp;</td><td>AGUSTIN HERNANDEZ ASCUC</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA NORTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-09-0009-41</td><td>01-612</td><td>GUATEMALA</td><td>SAN PEDRO SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO EL AGUACATE, ALDEA VISTA HERMOSA</td><td>51176609</td><td>SILVIA MAGALY GARCIA GARCIA</td><td>HUMBERTO SOLANO YUP NIJ</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-09-2667-41</td><td>01-612</td><td>GUATEMALA</td><td>SAN PEDRO SACATEPEQUEZ</td><td>COPB ANEXO A EORM  VISTA HERMOSA I</td><td>KM. 22, ALDEA VISTA HERMOSA</td><td>54699945</td><td>SILVIA MAGALY GARCIA GARCIA</td><td>MARGARITA CONCEPCION GONZALEZ GUTIERREZ</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-09-2668-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>SAN PEDRO SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA</td><td>ALDEA CHILLANI</td><td>&nbsp;</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-09-2775-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>SAN PEDRO SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA</td><td>ALDEA CHILLANI</td><td>&nbsp;</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-09-6667-41</td><td>01-612</td><td>GUATEMALA</td><td>SAN PEDRO SACATEPEQUEZ</td><td>COPB ANEXO A EORM BILINGÜE</td><td>CANTON LAS LIMAS ALDEA VISTA HERMOSA</td><td>32045656</td><td>SILVIA MAGALY GARCIA GARCIA</td><td>VICTOR HUGO APEN SISIMIT</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-09-9557-41</td><td>01-612</td><td>GUATEMALA</td><td>SAN PEDRO SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO LOS VASQUEZ, ALDEA BUENA VISTA</td><td>44192357</td><td>SILVIA MAGALY GARCIA GARCIA</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-0178-41</td><td>01-605</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXA A EORM  " DOCTORA ANA MARGARITA RICHARDSSON ESCOBAR"</td><td>COLONIA LAS MARGARITAS</td><td>79203302</td><td>EVERILDA HERNANDEZ MARROQUIN DE LORENZANA</td><td>NORMA ELIZABETH MEJIA ALAY DE CHICOHAY</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>TEMPORAL NOMBRAMIENTO</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-1750-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB</td><td>ALDEA PACHALI</td><td>66508754</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-1753-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB</td><td>ALDEA CRUZ BLANCA</td><td>53451562</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>PROFESOR FELIPE CAR SUBUJUJ</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-1754-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA  OFICIAL RURAL MIXTA</td><td>ALDEA CONCEPCION EL PILAR I</td><td>52098051</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>DANIA ALEJANDRINA MORALES GUERRA</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-1755-41</td><td>01-610</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXA A EORM</td><td>ALDEA COMUNIDAD DE ZET</td><td>51780539</td><td>LESBIA MARICELA COTZOJAY PATZAN</td><td>JOSE EULALIO BOROR PIRIR</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-1756-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO PASAJOC ALDEA CERRO ALTO</td><td>&nbsp;</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-1758-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>ALDEA SACSUY</td><td>&nbsp;</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-1760-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA 'LUIS ADOLFO JUAREZ TOLEDO'</td><td>ALDEA SAN ANTONIO LAS TROJES</td><td>&nbsp;</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-1761-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA</td><td>ALDEA CERRO ALTO</td><td>&nbsp;</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-1763-41</td><td>01-610</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO REALHUIT ALDEA SACSUY</td><td>66302604</td><td>LESBIA MARICELA COTZOJAY PATZAN</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-1764-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA</td><td>CASERIO SANTA FE OCAÑA ALDEA CRUZ BLANCA</td><td>42145214</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-1766-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA OFICIAL  RURAL MIXTA</td><td>ALDEA MONTUFAR</td><td>57013058</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-1767-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA 'MARIA ESTHER DE QUIROS'</td><td>ALDEA LOMA ALTA</td><td>66695046</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-1768-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA</td><td>CASERIO LOS PAJOQUES ALDEA LOMA ALTA</td><td>48169288</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-1769-41</td><td>01-610</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM 'DOCTORA DORIS T. ALLEN'</td><td>ALDEA SAJCAVILLA</td><td>&nbsp;</td><td>LESBIA MARICELA COTZOJAY PATZAN</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-1770-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA</td><td>ALDEA LA UNION EL PILAR II</td><td>&nbsp;</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-1771-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA 'EL REFUGIO'</td><td>ALDEA CAMINO DE SAN PEDRO</td><td>&nbsp;</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-6040-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXA A ESCUELA RURAL MIXTA</td><td>CASERIO LOS GUATES ALDEA SUACITE</td><td>&nbsp;</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-6042-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A ESCUELA RURAL MIXTA</td><td>ALDEA ESTANCIA GRANDE</td><td>&nbsp;</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-6118-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM 'ALBERTO ZARCO'</td><td>CASERIO LOS GUATES ALDEA SUACITE</td><td>53195636</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-6552-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>COMUNIDAD LAS PALMAS ALDEA SUACITE</td><td>32351314</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-6590-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO EORM</td><td>CASERIO ESTANCIA EL ROSARIO</td><td>51827106</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-7050-41</td><td>01-610</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COLEGIO EVANGELICO MAYA BETHANIA</td><td>10A CALLE 0-15 ZONA 4</td><td>66304095</td><td>LESBIA MARICELA COTZOJAY PATZAN</td><td>JOSUÉ ARIEL PIRIR LOCÓN</td><td>PREPRIMARIA BILINGUE</td><td>PRIVADO</td><td>URBANA</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-7333-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO ASUNCION CHIVOC COMUNIDAD RUIZ</td><td>41108908</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-7334-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>COMUNIDAD DE RUIZ</td><td>&nbsp;</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-7335-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO CRUZ AYAPAN, ALDEA LOMA ALTA</td><td>&nbsp;</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-7336-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO SAN MATIAS ALDEA SUACITE</td><td>57796660</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-7337-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM EMILIO CASTELLANOS GONZALEZ</td><td>CASERIO LOS PATZANES I ALDEA CERRO ALTO</td><td>57003833</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-7338-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO SAN FRANCISCO LAS LOMAS ALDEA ESTANCIA GRANDE</td><td>53211909</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-7380-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM  GUILLERMO   ALVARADO  ROBLES</td><td>ALDEA    SUACITE</td><td>46242695</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>HERTY   TABITA  HERNANDEZ   PAREDES</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-7385-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO EORM</td><td>CASERIO SAN JERONIMO CHUAXAN ALDEA MONTUFAR</td><td>&nbsp;</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>HEIDY DABEIBA GÁLVEZ MANZO DE MARTINEZ</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-8061-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO GUAMUCH ALDEA LOMA ALTA</td><td>&nbsp;</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-8182-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO LOS SAJQUIES ALDEA MONTUFAR</td><td>34177230</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-8454-41</td><td>01-610</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM 'DRA. DORIS T. ALLEN'</td><td>ALDEA SAJCAVILLA</td><td>44741342</td><td>LESBIA MARICELA COTZOJAY PATZAN</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>VESPERTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-8512-41</td><td>01-611</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO PASAJOC ALDEA CERRO ALTO</td><td>&nbsp;</td><td>CESAR AUGUSTO LUNA ORTIZ</td><td>ANA VERONICA PIRIR AJVIX</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>VESPERTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-10-9558-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>CASERIO ESTANCIA EL ROSARIO ALDEA MONTUFAR</td><td>&nbsp;</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-10-9676-41</td><td>01-622</td><td>GUATEMALA</td><td>SAN JUAN SACATEPEQUEZ</td><td>COPB ANEXO A EORM</td><td>COLONIA SAN JORGE ALDEA SUACITE</td><td>49503990</td><td>CRISTOBAL DE JESUS SANTIZO ROSALES</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-11-0024-41</td><td>01-613</td><td>GUATEMALA</td><td>SAN RAYMUNDO</td><td>COPB ANEXO A EORM</td><td>ALDEA VUELTA GRANDE</td><td>49825478</td><td>RONY ESTUARDO AREVALO CASTILLO</td><td>HEYSON EDMUNDO MANZO BHOR</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>VESPERTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-11-0026-41</td><td>01-613</td><td>GUATEMALA</td><td>SAN RAYMUNDO</td><td>COPB ANEXA A EORM</td><td>CASERIO LOS AYAPANES, ALDEA VUELTA GRANDE</td><td>&nbsp;</td><td>RONY ESTUARDO AREVALO CASTILLO</td><td>---</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-11-2675-41</td><td>01-613</td><td>GUATEMALA</td><td>SAN RAYMUNDO</td><td>COPB ANEXO A ESCUELA OFICIAL  RURAL MIXTA</td><td>ALDEA  EL  CARRIZAL</td><td>45007268</td><td>RONY ESTUARDO AREVALO CASTILLO</td><td>ILSA  LUISIANA  ROJAS  MOSCOZO</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-11-6627-41</td><td>01-613</td><td>GUATEMALA</td><td>SAN RAYMUNDO</td><td>COPB ANEXO EORM</td><td>CASERIO LO DE GUERRERO ALDEA LA CIENAGA</td><td>46560223</td><td>RONY ESTUARDO AREVALO CASTILLO</td><td>AURELINA CUTZAL GARCIA</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-11-8207-41</td><td>01-613</td><td>GUATEMALA</td><td>SAN RAYMUNDO</td><td>COPB ANEXO A EORM</td><td>ALDEA VUELTA GRANDE</td><td>59947474</td><td>RONY ESTUARDO AREVALO CASTILLO</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-11-8826-41</td><td>01-613</td><td>GUATEMALA</td><td>SAN RAYMUNDO</td><td>COPB ANEXO A EORM</td><td>ALDEA ESTANCIA VIEJA</td><td>55520571</td><td>RONY ESTUARDO AREVALO CASTILLO</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-11-8845-41</td><td>01-613</td><td>GUATEMALA</td><td>SAN RAYMUNDO</td><td>COPB ANEXO A EORM</td><td>CASERIO LAS JOYAS ALDEA EL CARRIZAL</td><td>&nbsp;</td><td>RONY ESTUARDO AREVALO CASTILLO</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-11-9507-41</td><td>01-613</td><td>GUATEMALA</td><td>SAN RAYMUNDO</td><td>COPB ANEXO A EORM ABUELITA AMELIA PAVONI</td><td>CASERIO CERRO LA GRANADILLA ALDEA EL CIPRES</td><td>53201316</td><td>RONY ESTUARDO AREVALO CASTILLO</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA OCCIDENTE</td>
+	</tr><tr>
+		<td>01-12-0002-41</td><td>01-614</td><td>GUATEMALA</td><td>CHUARRANCHO</td><td>ANEXA A EORM</td><td>CANTON LOS AJCUC</td><td>45756642</td><td>JERVIN ARSENIO FIGUEROA DUBON</td><td>---</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA NORTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-12-0010-41</td><td>01-614</td><td>GUATEMALA</td><td>CHUARRANCHO</td><td>COPB ANEXA A EORM</td><td>CANTON MALALEON</td><td>&nbsp;</td><td>JERVIN ARSENIO FIGUEROA DUBON</td><td>---</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA NORTE</td>
+	</tr><tr>
+		<td>01-12-0015-41</td><td>01-614</td><td>GUATEMALA</td><td>CHUARRANCHO</td><td>COPB ANEXA EORM</td><td>CANTON PONIENTE</td><td>&nbsp;</td><td>JERVIN ARSENIO FIGUEROA DUBON</td><td>---</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA NORTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-12-2680-41</td><td>01-614</td><td>GUATEMALA</td><td>CHUARRANCHO</td><td>COPB ANEXO A ESCUELA URBANA MIXTA  CARLOS AUGUSTO TRUJILLO ALVAREZ</td><td>CANTON CENTRAL</td><td>53778395</td><td>JERVIN ARSENIO FIGUEROA DUBON</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>URBANA</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA NORTE</td>
+	</tr><tr>
+		<td>01-12-2681-41</td><td>01-614</td><td>GUATEMALA</td><td>CHUARRANCHO</td><td>COPB ANEXO A EORM</td><td>CANTON LA CUMBRE</td><td>&nbsp;</td><td>JERVIN ARSENIO FIGUEROA DUBON</td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>OFICIAL</td><td>RURAL</td><td>ABIERTA</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA NORTE</td>
+	</tr><tr style="background-color:LightGoldenrodYellow;">
+		<td>01-15-6591-41</td><td>&nbsp;</td><td>GUATEMALA</td><td>VILLA NUEVA</td><td>CPPB COLEGIO MIXTO 'VILLA BONITA'</td><td>5A. AVENIDA 1-31 ZONA 5</td><td>66314925</td><td> </td><td>&nbsp;</td><td>PREPRIMARIA BILINGUE</td><td>PRIVADO</td><td>URBANA</td><td>CERRADA TEMPORALMENTE</td><td>BILINGUE</td><td>MATUTINA</td><td>DIARIO(REGULAR)</td><td>GUATEMALA SUR</td>
+	</tr><tr style="background-color:Gold;">
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr>
+</table>
+                                    
+									<span id="_ctl0_ContentPlaceHolder1_lblPie1" DESIGNTIMEDRAGDROP="417" style="color:#C04000;font-weight:bold;">60 Establecimientos encontrados</span>&nbsp;</center>
+							</TD>
+						</TR>
+					</TABLE>
+				</div><script>alert('Ocurrió un error!\n Thread was being aborted.')</script>
