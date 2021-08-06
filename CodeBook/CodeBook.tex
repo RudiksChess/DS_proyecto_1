@@ -8,9 +8,13 @@
 
 
 \section{Descripción general}
+
+El resumen de las estadísticas de la base de datos se puede observar en \ref{fig: 1}, la división de tipo de variables se eligió arbitrariamente; colocando a todas las variables como categóricas (exceptuando al código). La base de datos contiene 18 variables y tiene 65021 filas de todos los centros educativos. 
 	\begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.5]{Images/0}
+	\caption{Resumen}
+	\label{fig: 1}
 \end{figure}
 
 \newpage
@@ -18,7 +22,7 @@
 \section{Descripción de variables}
 
 \begin{variable}(codigo) 
-	La variable código fue colocada arbitrariamente para identificar cada establecimiento educativo por un índice para un mejor manejo de los datos.
+	La variable código sirve para identificar cada establecimiento educativo por un índice único. 
 	\bigbreak 
 	\textbf{Valores posibles.}
 	\begin{itemize}
@@ -32,12 +36,13 @@
 
 %-
 
-\begin{variable}(var) 
-	Content... 
+\begin{variable}(distrito) 
+	Hace referencia al distrito donde se encuentra el centro educativo. Su utilidad se encuentra en que representa al distrito de supervisión al que se encuentra regido. 
 	\bigbreak 
 	\textbf{Valores posibles.}
 	\begin{itemize}
-		\item 
+		\item 905 valores posibles. 
+		\item 3928 valores nulos.
 	\end{itemize}
 	\begin{figure}[H]
 		\centering
@@ -47,12 +52,12 @@
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(departamento) 
+Es la variable que representa al departamento en donde se encuentra el centro educativo.
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item Los 22 departamentos del país. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -62,12 +67,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(municipio) 
+Es la variable que representa al municipio en donde se encuentra el centro educativo.
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item Los 357 departamentos del país. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -77,12 +82,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(establecimiento) 
+	Es una variable que hace referencia al nombre de los centros educativos y el tipo de centro educativo (mixto, urbana, rural, por cooperativa, telesecundaria). Los datos muestran que existen muchos centros educativos con el mismo nombre. 
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item 17452 centros educativos distintos. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -92,12 +97,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(supervisor) 
+Hace referencia al nombre de la persona que está encargada de la supervisión de los centros educativos. 
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item Existen 828 datos distintos.  
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -107,12 +112,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(director) 
+Es una variable que indica el nombre del director del centro educativo. 
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item La mayoría son valores nulos (pendiente de limpieza ). 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -122,12 +127,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(nivel) 
+Es una variable que representa todos los niveles educativos que ofrecen los centros educativos.
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item 7 valores distintos (desde primaria hasta diversificado). 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -137,10 +142,11 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(sector) 
+Es una variable que complementa a la variable de establecimiento ya que separa en una columna específica el tipo de centro de educativo que representa.
 \bigbreak 
 \textbf{Valores posibles.}
+\item 5 valores distintos. 
 \begin{itemize}
 	\item 
 \end{itemize}
@@ -152,12 +158,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(area) 
+Es una variable que complementa a la variable de establecimiento ya que separa en una columna específica la locación de centro de educativo.
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item 4 valores distintos. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -167,12 +173,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(status) 
+Es una variable que representa el status actual del centro educativo, en caso de que se encuentre abierta, cerrado o cualquier otro pormenor.
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item 6 variables distintas.
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -182,12 +188,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(modalidad) 
+Es la modalidad en la que reciben las clases, si se imparten las clases en dos idiomas o solo uno. 
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item 3 valores posibles. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -197,12 +203,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(jornada) 
+Es una variable que complementa a la variable de establecimiento ya que separa en una columna específica la jornada del centro educativo.
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item 6 datos distintos. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -212,12 +218,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(plan) 
+Es una variable que hace referencia al plan en el que se reciben las clases de los centros educativos. 
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item 10 datos distintos. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -227,12 +233,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(departamental) 
+Es una variable que complementa a los distritos, ya que separa los centros educativos en varias subdivisiones; no necesariamente por departamento geográficos. 
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item 27 valores distintos. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -242,12 +248,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(direccion) 
+La dirección es una variable que contiene la dirección exacta de los centros educativos.
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item Indeterminado, no parece ser una variable determinando en la base de datos.
 \end{itemize}
 \begin{figure}[H]
 	\centering
@@ -257,12 +263,12 @@ Content...
 
 %-
 
-\begin{variable}(var) 
-Content... 
+\begin{variable}(telefono) 
+El número de teléfono es una variable que representa un medio de comunicación directa al centro educativo. 
 \bigbreak 
 \textbf{Valores posibles.}
 \begin{itemize}
-	\item 
+	\item Indeterminado, no parece ser una variable determinante en la base de datos. Esto se produce ya que se intentó tratar como variable categórica. 
 \end{itemize}
 \begin{figure}[H]
 	\centering
